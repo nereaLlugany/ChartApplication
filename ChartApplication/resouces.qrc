@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>change.png</file>
+        <file>save.png</file>
+        <file>reset.png</file>
+    </qresource>
+</RCC>
